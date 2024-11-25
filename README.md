@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Email is one of the most popular methods by an attacker to achieve initial access, specifically using the phishing technique. As a SOC analyst, it is crucial for you to understand how to analyze emails. In today's project, I'll walk you through a CTF-like lab from Blue Team cyber range called the planet's Prestige, and I would encourage you to follow along to get the most out of this video. Let's get started.
+Email is one of the most popular methods by an attacker to achieve initial access, specifically using the phishing technique. As a SOC analyst, it is crucial for you to understand how to analyze emails. In today's project, I'll walk you through a CTF-like lab from Blue Team cyber range called the planet's Prestige, and I would encourage you to follow along to get the most out of this walk-through. Let's get started.
 
 
 <h2>Applications Used </h2>
