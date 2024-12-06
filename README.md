@@ -2,11 +2,12 @@
 
 
 <h2>Description</h2>
-Email is one of the most popular methods by an attacker to achieve initial access, specifically using the phishing technique. As a SOC analyst, it is crucial for you to understand how to analyze emails. In today's project, I'll walk you through a CTF-like lab from Blue Team cyber range called the planet's Prestige, and I would encourage you to follow along to get the most out of this walk-through. Let's get started.
+Email is one of the most popular methods by an attacker to achieve initial access, specifically using the phishing technique. As a SOC analyst, it is crucial for you to understand how to analyze emails. In today's project, I'll walk you through a CTF-like lab from Blue Team cyber range called the Planet's Prestige, and I would encourage you to follow along to get the most out of this walk-through. Let's get started.
 
 
 <h2>Applications Used </h2>
 Vultr Cloud Provider Website (https://www.vultr.com/)
+<br />
 T-Pot Honeypot Platform Github (https://github.com/telekom-security/tpotce)
 
 <h2>Project walk-through:</h2>
@@ -58,7 +59,7 @@ For additional features, I'll go ahead and just disable auto backups and IPv6 as
 <br />
 <br />
 <br />
-Scrolling down, we have a firewall group that I'll create later on. For the server host name, I am going to name this as 'MyDFIR-Honeypot and click on 'deploy now':  <br/>
+Scrolling down, we have a firewall group that I'll create later on. For the server hostname, I am going to name this as 'MyDFIR-Honeypot and click on 'deploy now':  <br/>
 <br />
 <img src="https://snipboard.io/I3o7ml.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
