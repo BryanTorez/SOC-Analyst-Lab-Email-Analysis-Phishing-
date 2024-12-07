@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Email is one of the most popular methods by an attacker to achieve initial access, specifically using the phishing technique. As a SOC analyst, it is crucial for you to understand how to analyze emails. In today's project, I'll walk you through a CTF-like lab from Blue Team cyber range called the Planet's Prestige, and I would encourage you to follow along to get the most out of this walk-through. Let's get started.
+Email is one of the most popular methods by an attacker to achieve initial access, specifically using the phishing technique. As a SOC analyst, you must understand how to analyze emails. In today's project, I'll walk you through a CTF-like lab from Blue Team Cyber Range called the Planet's Prestige, and I would encourage you to follow along to get the most out of this walk-through. Let's get started.
 
 
 <h2>Applications Used </h2>
@@ -13,14 +13,14 @@ T-Pot Honeypot Platform Github (https://github.com/telekom-security/tpotce)
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Heading over to, Blue Team Labs Online. If you don't have an account yet you can register for one here, but if you do you can go ahead and just hit login and log into your account: <br/>
+Heading over to, Blue Team Labs Online. If you don't have an account, you can register for one. Once you do, log into your account: <br/>
 <br />
 <img src="https://snipboard.io/lnikjR.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
-once you're logged in you want to go and select challenges which is located at the top next you want to search planet and hit enter you should see the planet's Prestige so we'll go ahead and hit start challenge very quickly we'll go over the scenario here:  <br/>
+Once you're logged in. You want to go and select 'Challenges' which is located at the top. Next, you want to search 'Planet Prestige' and hit 'Enter'. You should see the 'Planet's Prestige' pop-up. So we'll go ahead and hit 'Start Challenge'. Very quickly we'll go over the scenario here. :  <br/>
 <br />
 <img src="https://snipboard.io/gYdj5x.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
